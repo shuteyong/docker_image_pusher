@@ -1,1 +1,2 @@
-searxng/searxng
+postgres:16-alpine
+redis:7
